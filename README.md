@@ -1,6 +1,11 @@
 # Telegram-TikTok-Installer
 🌴 Telegram-bot for installing videos from TikTok platform using a url 📱
 
+## UPDATED (01.11.25) 🥥
+- Fixed errors when downloading videos by URL.
+- Fixed issues with deployment to hosting.
+- Added logs for viewing problems.
+
 ## Features
 - Download TikTok videos directly in Telegram
 - Simple URL-based interface
